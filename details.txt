@@ -1,0 +1,8 @@
+Problem Statement Id : TSL-6.0
+Aim: To create a MEAN stack application project on Transaction log and filtering of Shop Database.
+Description: There are many transactions happening in a shop.
+Your job is to populate a transactions database with a few entries, and provide a 
+UI with a dropdown options to select different periodicity to aggregate the transaction details in the created database.
+Periodicities include: daily, weekly, monthly.
+Provide appropriate aggregate functions like summing transactional details, counts of transactional details.
+Provide options to filter over a specific value of transaction (greater than and less than function).
